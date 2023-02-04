@@ -1,4 +1,4 @@
-package sonigaurav950.MyCalculator
+package sonigaurav950.mycalculator
 
 import org.junit.Test
 

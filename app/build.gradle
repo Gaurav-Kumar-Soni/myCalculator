@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'sonigaurav950.MyCalculator'
+    namespace 'sonigaurav950.mycalculator'
     compileSdk 32
 
     defaultConfig {
-        applicationId "sonigaurav950.MyCalculator"
+        applicationId "sonigaurav950.mycalculator"
         minSdk 27
         targetSdk 32
         versionCode 1
